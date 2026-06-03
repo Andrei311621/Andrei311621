@@ -5,18 +5,18 @@ Hi, I'm Andrei 👋
 💻I am passionate about technology and currently developing my software and IT skills.
 
 ## 👨‍💻 About Me:
--Master's degree in Advanced Electronics
--Bachelor's degree in Electronics
--Interested in software development, automation, and modern technologies
--Committed to continuous learning and self-improvement
+- Master's degree in Advanced Electronics
+- Bachelor's degree in Electronics
+- Interested in software development, automation, and modern technologies
+- Committed to continuous learning and self-improvement
 
 
 
 ## 🛠️ Skills:
--Programming
--Electronics and Embedded Systems
--Technical Problem Solving
--Analytical and Logical Thinking
+- Programming
+- Electronics and Embedded Systems
+- Technical Problem Solving
+- Analytical and Logical Thinking
 
 
 
