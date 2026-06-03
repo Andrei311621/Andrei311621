@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I'm Andrei 👋
 
-<!--
-**Andrei311621/Andrei311621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Electronics Engineer with a Bachelor's degree in Electronics and a Master's degree in Advanced Electronics.
 
-Here are some ideas to get you started:
+💻I am passionate about technology and currently developing my software and IT skills.
+
+## 👨‍💻 About Me:
+-Master's degree in Advanced Electronics
+-Bachelor's degree in Electronics
+-Interested in software development, automation, and modern technologies
+-Committed to continuous learning and self-improvement
+
+
+
+## 🛠️ Skills:
+-Programming
+-Electronics and Embedded Systems
+-Technical Problem Solving
+-Analytical and Logical Thinking
+
+
+
+## 🎯 Objectives
+
+I am building projects to develop my portfolio and gain a position in the IT industry.
+
+
+
+
+## 📂 Projects
+
+Here you can find the projects I have worked on and the technologies I am exploring.
+
+
+## 📫 Contact
+- 💼 LinkedIn: https://www.linkedin.com/in/andrei-cernescu-24613a1bb/
+- 📧 Email: andrei_cernescu@yahoo.com
+
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
