@@ -38,12 +38,3 @@ Here you can find the projects I have worked on and the technologies I am explor
 
 
 
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-
